@@ -1,4 +1,4 @@
-This project was made using React.js
+# This project was made using React.js
 
 You can find this calculator project live at:
 

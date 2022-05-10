@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const App = () => {
-  const [expression, setExpression] = useState("");
+  const [e, setExpression] = useState("");
   const [answer, setAnswer] = useState(expression);
 
   const display = (symbol) => {
