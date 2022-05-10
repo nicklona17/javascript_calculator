@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nicklona17/javascript_calculator.git/static/css/main.c0d9e3f0.css",
+    "main.js": "/nicklona17/javascript_calculator.git/static/js/main.d03d3cb5.js",
+    "index.html": "/nicklona17/javascript_calculator.git/index.html",
+    "main.c0d9e3f0.css.map": "/nicklona17/javascript_calculator.git/static/css/main.c0d9e3f0.css.map",
+    "main.d03d3cb5.js.map": "/nicklona17/javascript_calculator.git/static/js/main.d03d3cb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d9e3f0.css",
+    "static/js/main.d03d3cb5.js"
+  ]
+}
