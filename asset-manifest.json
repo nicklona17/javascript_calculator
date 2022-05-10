@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nicklona17/javascript_calculator.git/static/css/main.c0d9e3f0.css",
-    "main.js": "/nicklona17/javascript_calculator.git/static/js/main.d03d3cb5.js",
-    "index.html": "/nicklona17/javascript_calculator.git/index.html",
-    "main.c0d9e3f0.css.map": "/nicklona17/javascript_calculator.git/static/css/main.c0d9e3f0.css.map",
-    "main.d03d3cb5.js.map": "/nicklona17/javascript_calculator.git/static/js/main.d03d3cb5.js.map"
+    "main.css": "/javascript_calculator/static/css/main.c0d9e3f0.css",
+    "main.js": "/javascript_calculator/static/js/main.d03d3cb5.js",
+    "index.html": "/javascript_calculator/index.html",
+    "main.c0d9e3f0.css.map": "/javascript_calculator/static/css/main.c0d9e3f0.css.map",
+    "main.d03d3cb5.js.map": "/javascript_calculator/static/js/main.d03d3cb5.js.map"
   },
   "entrypoints": [
     "static/css/main.c0d9e3f0.css",
